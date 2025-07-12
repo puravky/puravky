@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/94912e60-b2c0-4eff-b419-8e6d756ec281" />
-<h1 align="center">
+<div>
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/94912e60-b2c0-4eff-b419-8e6d756ec281" />
+<h1>
   Welcome to my Github Profile! </br>
   You can connect and chat about anything.
 </h1>
-
+</div>
 <p align="center">
 <a href="https://piyushmalhotra.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
