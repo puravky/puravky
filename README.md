@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!Everyone👋&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hola Amigo!&height=100&section=header"/>
 </p>
 <div>
-<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/94912e60-b2c0-4eff-b419-8e6d756ec281" />
-<h1>
+<img align="right" width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/94912e60-b2c0-4eff-b419-8e6d756ec281" />
+<h1 align="left">
   Welcome to my Github Profile! </br>
   You can connect and chat about anything.
 </h1>
