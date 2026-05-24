@@ -4,7 +4,7 @@ Hola Amigo! 👋
 Web/App developer exploring AI/ML. I craft clean, responsive digital experiences using modern tech — from frontend interfaces to intelligent systems — with a focus on performance, design, and scalability.
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my portfolio at [puravky](http://puravkyme.vercel.app)
+* 🖥️  See my portfolio at [puravky](http://puravky.me)
 * ✉️  You can contact me at [puravkumaryadav@gmail.com](mailto:puravkumaryadav@gmail.com)
 * 🧠  I'm learning Expo & Neural Networks
 * 🤝  I'm open to collaborating on cool and impactful projects
