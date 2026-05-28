@@ -1,7 +1,7 @@
-Hola Amigo! 👋
+Hey Folks👋
 =========================
 
-Web/App developer exploring AI/ML. I craft clean, responsive digital experiences using modern tech — from frontend interfaces to intelligent systems — with a focus on performance, design, and scalability.
+Web developer exploring AI/ML. I craft clean, responsive digital experiences using modern tech — from frontend interfaces to intelligent systems — with a focus on performance, design, and scalability.
 
 * 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [puravky](http://puravky.me)
