@@ -1,13 +1,16 @@
 Hey Folks👋
 =========================
 
-Web developer exploring AI/ML. I craft clean, responsive digital experiences using modern tech — from frontend interfaces to intelligent systems — with a focus on performance, design, and scalability.
+AI Engineer in the making. I build intelligent systems — 
+LLM pipelines, NLP models, and GenAI apps — backed by 
+a solid full-stack web-development foundation.
+Currently exploring Agentic AI, RAGs, and everything
+in between.
 
-* 🌍  I'm based in New Delhi, India
 * 🖥️  See my portfolio at [puravky](http://puravky.me)
 * ✉️  You can contact me at [puravkumaryadav@gmail.com](mailto:puravkumaryadav@gmail.com)
-* 🧠  I'm learning Expo & Neural Networks
-* 🤝  I'm open to collaborating on cool and impactful projects
+* 🤝  Open to Collab, just drop a DM
+* 🌍  I'm based in New Delhi, India
 
 ### Skills
 
