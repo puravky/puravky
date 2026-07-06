@@ -46,27 +46,6 @@
 
 ###
 
-<h3 data-importer="text" align="left">Socials:</h3>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/puravky/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/async7i" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/960px-X_logo.jpg" width="52" height="40" alt="x logo"  />
-  </a>
-  <a href="https://telegram.com/async7i" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="mailto:puravkumaryadav@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="180" src="https://i.imgflip.com/9aqpd9.jpg"  />
 </div>
