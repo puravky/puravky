@@ -8,7 +8,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">🔭 I'm currently working on generative AI and agentic systems.<br>👯 I'm open to collaborate on open source stuff.<br>☕️ Fun fact: Most of my best code is written after midnight.<br>📫 Reach me at puravkumaryadav@gmail.com<br>👨‍💻 My portfolio is available at https://puravky.me</h5>
+<h4 data-importer="text" align="left">🔭 I'm currently working on generative AI and agentic systems.<br>👯 I'm open to collaborate on open source stuff.<br>☕️ Fun fact: Most of my best code is written after midnight.<br>📫 Reach me at puravkumaryadav@gmail.com<br>👨‍💻 My portfolio is available at https://puravky.me</h4>
 
 ###
 
@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/async7i" target="_blank">
-    <img src="https://img.magnific.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/960px-X_logo.jpg" width="52" height="40" alt="x logo"  />
   </a>
   <a href="https://telegram.com/async7i" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
