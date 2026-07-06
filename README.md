@@ -1,25 +1,60 @@
-Hey Folks👋
-=========================
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Purav%20Kumar&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=80&textBg=false&theme=cobalt"  />
+</div>
 
-AI Engineer in the making. I build intelligent systems — 
-LLM pipelines, NLP models, and GenAI apps — backed by 
-a solid full-stack web-development foundation.
-Currently exploring Agentic AI, RAGs, and everything
-in between.
+###
 
-* 🖥️  See my portfolio at [puravky](http://puravky.me)
-* ✉️  You can contact me at [puravkumaryadav@gmail.com](mailto:puravkumaryadav@gmail.com)
-* 🤝  Open to Collab, just drop a DM
-* 🌍  I'm based in New Delhi, India
+<p data-importer="text" align="left">🔭 I'm currently working on generative AI and agentic systems.<br>👯 I'm open to collaborate on open source stuff.<br>☕️ Fun fact: Most of my best code is written after midnight.<br>📫 Reach me at puravkumaryadav@gmail.com<br>👨‍💻 My portfolio is available at https://puravky.me</p>
 
-### Skills
+###
 
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="fastapi logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="supabase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+###
 
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
 
-### Socials
+###
 
-<p align="left"> <a href="https://www.github.com/puravky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/sixtwobtw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/purav-kumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.x.com/async7i" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="180" src="https://imgflip.com/memetemplate/562237677/coding-cat"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thank%20You!&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
