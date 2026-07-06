@@ -4,7 +4,15 @@
 
 ###
 
-<p data-importer="text" align="left">🔭 I'm currently working on generative AI and agentic systems.<br>👯 I'm open to collaborate on open source stuff.<br>☕️ Fun fact: Most of my best code is written after midnight.<br>📫 Reach me at puravkumaryadav@gmail.com<br>👨‍💻 My portfolio is available at https://puravky.me</p>
+<p data-importer="text" align="left">I enjoy building intelligent applications with NLP, LLMs, and modern web technologies while exploring Agentic AI, automation, and open-source. Currently on a journey to turn ideas into products that solve real problems.</p>
+
+###
+
+<h5 data-importer="text" align="left">🔭 I'm currently working on generative AI and agentic systems.<br>👯 I'm open to collaborate on open source stuff.<br>☕️ Fun fact: Most of my best code is written after midnight.<br>📫 Reach me at puravkumaryadav@gmail.com<br>👨‍💻 My portfolio is available at https://puravky.me</h5>
+
+###
+
+<h3 data-importer="text" align="left">Tech Stack:</h3>
 
 ###
 
@@ -38,12 +46,16 @@
 
 ###
 
+<h3 data-importer="text" align="left">Socials:</h3>
+
+###
+
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/puravky/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/async7i" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.magnific.com/free-vector/twitter-new-2023-x-logo-white-background-vector_1017-45422.jpg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://telegram.com/async7i" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
